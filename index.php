@@ -13,11 +13,13 @@ $jspathlist = array();
 
 include("core/core.php");
 
+/*
 if (isset($_GET['basehost'])) {
     $srvip = $_GET['basehost'];
 } else {
     $srvip = $_SERVER['HTTP_HOST'];
 }
+*/
 
 //debug_print($route);
 //debug_print($jsnodelist);

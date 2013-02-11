@@ -61,7 +61,7 @@ function traceHost($host) {
         
     $nodes = array();
     $i = 0;
-    $nodes[] = $srvip;
+    //$nodes[] = $srvip;
     if (stristr(PHP_OS, 'WIN')) {
         // Win
         foreach ($rawnodes as $tmpnode) {
