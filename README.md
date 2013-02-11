@@ -13,15 +13,15 @@ Dependencies :
   - PHP need to have the rights for running the shell "traceroute" command.
 
 Infos :
-  Works on Unix like or Windows based systems.
+  - Works on Unix like or Windows based systems.
 
 Changelog :
-v0.2b
-  - Updated Gmap, JQuery and maxmind database
-  - Cleaned code
-v0.2a
-  - Rewrite core.php
-v0.1b
-  - Creating template and CSS
-v0.1a
-  - First working version
+  - v0.2b
+    - Updated Gmap, JQuery and maxmind database
+    - Cleaned code
+  - v0.2a
+    - Rewrite core.php
+  - v0.1b
+    - Creating template and CSS
+  - v0.1a
+    - First working version
